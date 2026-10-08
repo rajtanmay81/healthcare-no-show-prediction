@@ -1,0 +1,25 @@
+doctor_id,doctor_name,department,specialization,email,phone
+1,Dr. Ananya Smith,General Medicine,Internal Medicine,ananya.smith.1@citygeneral.org,+1-555-2001
+2,Dr. Nathan Lewis,General Medicine,Family Medicine,nathan.lewis.2@citygeneral.org,+1-555-2002
+3,Dr. Isabella Verma,General Medicine,Internal Medicine,isabella.verma.3@citygeneral.org,+1-555-2003
+4,Dr. Ananya Rodriguez,Cardiology,Interventional Cardiology,ananya.rodriguez.4@citygeneral.org,+1-555-2004
+5,Dr. David Das,Cardiology,Electrophysiology,david.das.5@citygeneral.org,+1-555-2005
+6,Dr. Kavya Wright,Cardiology,Interventional Cardiology,kavya.wright.6@citygeneral.org,+1-555-2006
+7,Dr. Omar Smith,Dermatology,Clinical Dermatology,omar.smith.7@citygeneral.org,+1-555-2007
+8,Dr. Olivia Taylor,Dermatology,Cosmetic Dermatology,olivia.taylor.8@citygeneral.org,+1-555-2008
+9,Dr. Kavya Davis,Dermatology,Clinical Dermatology,kavya.davis.9@citygeneral.org,+1-555-2009
+10,Dr. Sofia Lewis,Orthopedics,Sports Medicine,sofia.lewis.10@citygeneral.org,+1-555-2010
+11,Dr. Kabir Kim,Orthopedics,Joint Replacement,kabir.kim.11@citygeneral.org,+1-555-2011
+12,Dr. Daniel Williams,Orthopedics,Sports Medicine,daniel.williams.12@citygeneral.org,+1-555-2012
+13,Dr. Rahul Perez,Neurology,Epilepsy,rahul.perez.13@citygeneral.org,+1-555-2013
+14,Dr. Isaac Thomas,Neurology,Movement Disorders,isaac.thomas.14@citygeneral.org,+1-555-2014
+15,Dr. Leah Lewis,Neurology,Epilepsy,leah.lewis.15@citygeneral.org,+1-555-2015
+16,Dr. Ishaan Hall,Pediatrics,General Pediatrics,ishaan.hall.16@citygeneral.org,+1-555-2016
+17,Dr. Anika Moore,Pediatrics,Neonatology,anika.moore.17@citygeneral.org,+1-555-2017
+18,Dr. Thomas Chen,Pediatrics,General Pediatrics,thomas.chen.18@citygeneral.org,+1-555-2018
+19,Dr. Tanvi Thompson,ENT,Otology,tanvi.thompson.19@citygeneral.org,+1-555-2019
+20,Dr. Emma Perez,ENT,Rhinology,emma.perez.20@citygeneral.org,+1-555-2020
+21,Dr. Chloe Singh,ENT,Otology,chloe.singh.21@citygeneral.org,+1-555-2021
+22,Dr. Noah Khan,Gynecology,Obstetrics,noah.khan.22@citygeneral.org,+1-555-2022
+23,Dr. Amelia Wright,Gynecology,Reproductive Endocrinology,amelia.wright.23@citygeneral.org,+1-555-2023
+24,Dr. Ishaan White,Gynecology,Obstetrics,ishaan.white.24@citygeneral.org,+1-555-2024

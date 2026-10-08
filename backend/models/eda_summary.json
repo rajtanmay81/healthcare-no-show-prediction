@@ -1,0 +1,151 @@
+{
+  "rows": 15000,
+  "unique_patients": 4600,
+  "status_counts": {
+    "completed": 10149,
+    "no_show": 3156,
+    "cancelled": 1276,
+    "scheduled": 286,
+    "confirmed": 133
+  },
+  "labelled_rows": 13305,
+  "overall_no_show_rate": 0.2372,
+  "by_department": {
+    "Cardiology": {
+      "no_show_rate": 0.2004,
+      "n": 1627
+    },
+    "Dermatology": {
+      "no_show_rate": 0.2854,
+      "n": 1584
+    },
+    "ENT": {
+      "no_show_rate": 0.2404,
+      "n": 1464
+    },
+    "General Medicine": {
+      "no_show_rate": 0.254,
+      "n": 2484
+    },
+    "Gynecology": {
+      "no_show_rate": 0.242,
+      "n": 996
+    },
+    "Neurology": {
+      "no_show_rate": 0.1914,
+      "n": 1186
+    },
+    "Orthopedics": {
+      "no_show_rate": 0.2395,
+      "n": 1553
+    },
+    "Pediatrics": {
+      "no_show_rate": 0.2302,
+      "n": 2411
+    }
+  },
+  "by_day_of_week": {
+    "Friday": {
+      "no_show_rate": 0.261,
+      "n": 1858
+    },
+    "Monday": {
+      "no_show_rate": 0.2376,
+      "n": 3855
+    },
+    "Saturday": {
+      "no_show_rate": 0.2777,
+      "n": 1876
+    },
+    "Thursday": {
+      "no_show_rate": 0.2112,
+      "n": 1899
+    },
+    "Tuesday": {
+      "no_show_rate": 0.2237,
+      "n": 1913
+    },
+    "Wednesday": {
+      "no_show_rate": 0.2127,
+      "n": 1904
+    }
+  },
+  "by_age_group": {
+    "0-17": {
+      "no_show_rate": 0.2249,
+      "n": 2548
+    },
+    "18-34": {
+      "no_show_rate": 0.2858,
+      "n": 2806
+    },
+    "35-49": {
+      "no_show_rate": 0.2314,
+      "n": 2360
+    },
+    "50-64": {
+      "no_show_rate": 0.2182,
+      "n": 2342
+    },
+    "65+": {
+      "no_show_rate": 0.2228,
+      "n": 3249
+    }
+  },
+  "by_booking_lead_days": {
+    "0-2": {
+      "no_show_rate": 0.1844,
+      "n": 4061
+    },
+    "3-7": {
+      "no_show_rate": 0.2076,
+      "n": 1753
+    },
+    "8-21": {
+      "no_show_rate": 0.2588,
+      "n": 4884
+    },
+    "22-60": {
+      "no_show_rate": 0.2988,
+      "n": 2607
+    }
+  },
+  "by_previous_no_shows": {
+    "0": {
+      "no_show_rate": 0.1989,
+      "n": 9758
+    },
+    "1": {
+      "no_show_rate": 0.2891,
+      "n": 2383
+    },
+    "2": {
+      "no_show_rate": 0.4103,
+      "n": 680
+    },
+    "3+": {
+      "no_show_rate": 0.5103,
+      "n": 484
+    }
+  },
+  "by_previous_cancellations": {
+    "0": {
+      "no_show_rate": 0.2277,
+      "n": 11357
+    },
+    "1": {
+      "no_show_rate": 0.2852,
+      "n": 1655
+    },
+    "2+": {
+      "no_show_rate": 0.3345,
+      "n": 293
+    }
+  },
+  "missing_values": {
+    "prior_no_show_rate": 4600,
+    "prior_cancellation_rate": 4600,
+    "previous_attendance_rate": 4889,
+    "days_since_last_appointment": 4600
+  }
+}
